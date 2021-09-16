@@ -1,2 +1,2 @@
 # git-practice
-更新しました。
+new-featureブランチで変更
