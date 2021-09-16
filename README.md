@@ -1,2 +1,2 @@
 # git-practice
-new-featureブランチで変更
+featureブランチで変更2
