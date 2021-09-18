@@ -1,2 +1,4 @@
 # git-practice
-github上で再度更新しました。v02
+conflict-remote上で更新（コンフリクト発生）
+
+
