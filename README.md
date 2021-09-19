@@ -4,3 +4,5 @@
 rebase-practiceブランチで変更(rebase-conflict用)
 for rebase pull
 stash practice for conflict v2
+stash tracked練習用
+stash save 1st
