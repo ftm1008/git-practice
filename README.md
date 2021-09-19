@@ -1,4 +1,4 @@
 # git-practice
-conflict-remote上で更新（コンフリクト発生）
-
-
+このリポジトリはGit動画講座用です。
+ローカルリポで変更
+rebase-practiceブランチで更新(rebase用)
